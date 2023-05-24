@@ -1,5 +1,7 @@
 <h1 align="center">
 
+<img src="https://raw.githubusercontent.com/labhackers/.github/master/.github/media/Labhackers-Social-800x400.png" alt="LabHacker's Cookbook Repo Template" />
+
 [LabHacker's Jekyll Containers v-1.0.0](https://github.com/labhackers/jekyll/releases/tag/v-1.0.0)
 
 </h1>
@@ -10,11 +12,11 @@ Jekyll Containers - for local development of GH-Pages or "Wild Jekyll" Websites!
 
 <h3 align="center">
 <a href="https://github.com/labhackers/jekyll/issues" target="_blank">Issues</a>
-🔹
+🔸
 <a href="https://labhackers.github.io/jekyll" target="_blank">Documentation</a>
-🔹
+🔸
 <a href="https://github.com/labhackers/jekyll/releases" target="_blank">Releases</a>
-🔹
+🔸
 <a href="https://github.com/orgs/labhackers/packages?repo_name=jekyll" target="_blank">Packages</a>
 </h3>
 
@@ -28,6 +30,7 @@ Jekyll Containers - for local development of GH-Pages or "Wild Jekyll" Websites!
 <details><summary><h2><a name="toc">📖 Table of Contents</a></h2></summary>
 
 - [Project Overview](#-project-overview)
+  - [Branch Reliability](#branch-reliability) 
 - [What's Included?](#-whats-included)
 - [Installation](#-installation)
 - [Available Support](#-available-support)
@@ -43,6 +46,18 @@ Jekyll Containers - for local development of GH-Pages or "Wild Jekyll" Websites!
 ## ⭐ [Project Overview](#toc)
 
 
+### [Branch Reliability](#toc)
+
+The Branch Reliability Table is a way for you to determine how close to the bleeding edge you're comfortable getting.
+
+If you need stability, then download a branch marked with 🟢
+
+If you're contributing code to the project, you'll want 🔴
+
+| Branch               |    Stability    | Code Age         | Reliability |
+|----------------------|:---------------:|------------------|:-----------:|
+| `master`             |  latest stable  | latest release   |     🟢      |
+| `develop`            | latest unstable | most recent code |     🔴      |
 
 
 [`^ Top`](#toc)
@@ -182,6 +197,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 📖 [Resources](#toc)
 
 ### Attributed Projects
+
 - [**BretFisher/jekyll-serve**](https://github.com/BretFisher/jekyll-serve) by Bret Fisher
 
 [`^ Top`](#toc)
