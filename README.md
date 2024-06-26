@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center"><em>
-Jekyll Containers - for local development of GH-Pages or "Wild Jekyll" Websites!
+Jekyll Containers for local development of GH-Pages or "Wild Jekyll" Websites!
 </em></h3>
 
 <h3 align="center">
