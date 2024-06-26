@@ -1,8 +1,8 @@
 <h1 align="center">
 
-<img src="https://raw.githubusercontent.com/labhackers/.github/master/.github/media/Labhackers-Social-800x400.png" alt="LabHacker's Cookbook Repo Template" />
+<img src="https://raw.githubusercontent.com/Ragdata/media/master/project/labhackers/Labhackers-Social-800x400.png" alt="LabHacker's Cookbook Repo Template" />
 
-[LabHacker's Jekyll Containers v-1.0.0](https://github.com/labhackers/jekyll/releases/tag/v-1.0.0)
+[LabHacker's Workshop<br />Jekyll Containers v-1.0.0](https://github.com/labhackers/jekyll/releases/tag/v-1.0.0)
 
 </h1>
 
@@ -111,7 +111,7 @@ If you're contributing code to the project, you'll want 🔴
 
 <table>
 <tr>
-<td width="94"><a href="https://jetbrains.com" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/brands/jetbrains.svg" alt="JetBrains" height="94" ></a></td>
+<td width="94"><a href="https://jetbrains.com" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/brand/jetbrains.svg" alt="JetBrains" height="94" ></a></td>
 <td>
 
 **JetBrains very generously provide me with a free license for their products every month, and you can get one too if you're working on a public, open-source project!**  I've used JetBrains' IDEs for many years now, and was more than happy to pay for a license every year back when I was working in the corporate sector.  **Absolutely my first choice in IDEs!**
